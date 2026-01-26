@@ -7,10 +7,7 @@
 		{
 			"Name": "Gam312_Project",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -20,7 +17,7 @@
 		},
 		{
 			"Name": "VisualStudioTools",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64"
 			],
